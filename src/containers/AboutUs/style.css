@@ -1,0 +1,33 @@
+ 
+.aboutUsContainer {
+        margin-top: 10px;
+ 
+}
+ .ProfileContainer{
+        display: grid;
+        grid-template-columns: repeat(3, 33%);   
+        grid-gap: 5px;  
+        align-items: center;
+        justify-items: center; /* adjusted */
+ }
+ 
+ @media screen and (max-width:768px){
+    .ProfileContainer{
+         
+        grid-template-columns: repeat(3, 33%);
+        grid-gap: 2px; 
+        align-items: center;
+        justify-items: center; /* adjusted */
+        
+     }
+    }
+ @media screen and (max-width:425px){
+    .ProfileContainer{
+        
+        grid-template-columns: 1fr;
+        /* grid-gap: 5px;  */
+        align-items: center;
+        justify-items: center; /* adjusted */
+         
+     }
+    }

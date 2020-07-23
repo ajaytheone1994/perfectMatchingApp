@@ -1,0 +1,107 @@
+{
+    "data":[
+        {
+            "coupleId":"1",
+            "slug":"sha_Gauri",
+            "coupleName":"Shah Rukh Khan and Gauri Khan",
+            "Date_of_Marriage":"25 October 1991",
+            "coupleImage":"sha_gauri.jpg",
+            "about":"Many relationships dont stand the test of time in Bollywood, but that is not the case with our number one couple. Shah Rukh and Gauri have been married since 1991 (they met in 1984), and despite the odd rumour that they lead separate lives, by all official appearances, they are still going strong.She is the key interior designer in Mumbai high society, and he is arguably the most famous Bollywood star of all time. They are an interfaith marriage too (he is Muslim and she is Hindu) and they got together before either of them was famous, so their match appears to one truly founded on love.",
+            "Bio2":"https://en.wikipedia.org/wiki/Gauri_Khan",
+            "about:":""
+   
+
+        },
+           {
+            "coupleId":"2",
+            "slug":"saif_kareena",
+            "coupleName":"Saif Ali Khan and Kareena Kapoor",
+            "Date_of_Marriage":"16 October 2012",
+            "coupleImage":"saif_kareena.jpg",
+            "Bio1":"https://en.wikipedia.org/wiki/Saif_Ali_Khan",
+            "Bio2":"https://starsunfolded.com/kareena-kapoor/",
+            "about":"This pair is powerful together, but they are both Bollywood royalty in and of themselves. Kareena's family is 'the first family of Bollywood', with her great-grandfather Prithvi Raj Kapoor a very famous actor from the 1930s to the 1970s. Meanwhile, Saif boasts royal lineage (his famous cricketer father Mansoor Ali Khan was the Nawab of Pataudi) and his mother is, of course, Sharmila Tagore of Aradhana fame."
+           
+        }, 
+           {
+            "coupleId":"3",
+            "slug":"ranveer_deepika",
+            "coupleName":"Ranveer Singh and Deepika Padukone",
+            "Date_of_Marriage":"14 November 2018",
+            "coupleImage":"ranveer_deepika.jpg",
+            "Bio1":"https://en.wikipedia.org/wiki/Ranveer_Singh",
+            "Bio2":"https://deepikapadukone.com/",
+            "about":"Soon to be married, Ranveer and Deepika have kept the details of their relationship under wraps, but appear to have been dating for around five years. While they are famous actors in their own right, it is when they star next to each other in Sanjay Leela Bhansali's historical epics that they truly shine. Ram-Leela in 2013, Baijrao Mastani in 2015 and this year's Padmaavat are some of Bollywood's biggest recent hits."
+           }, 
+           {
+            "coupleId":"4",
+            "slug":"virat_anushka",
+            "coupleName":"Virat Kohli and Anushka Sharma",
+            "Date_of_Marriage":"11 December 2017",
+            "coupleImage":"virat_anushka.jpg",
+            "Bio1":"",
+            "Bio2":"",
+            "about":"What does India love as much as Bollywood? Cricket. Virat and Anushka come in at number four in our rankings because he is the captain of the Indian cricket team, and she is known as an actress who tackles gritty and real roles (something that at times feels lacking in Bollywood).The couple met while doing an ad for Head and Shoulders in 2013 (who knew dandruff could be so romantic?). They go by the moniker 'Virushka' and were married in Italy in 2017." 
+           }, 
+           {
+            "coupleId":"5",
+            "slug":"askhay_twinkle",
+            "coupleName":"Askhay Kumar and Twinkle Khanna",
+            "Date_of_Marriage":"17 January 2001",
+            "coupleImage":"ask_twin.jpg",
+            "Bio1":"",
+            "Bio2":"",
+            "about":"Akshay Kumar has been engaged many times, but the only time he managed to make it all the way was with Twinkle, an actress turned author and interior designer. The pair have two kids together, and are private about their family life. Also, Twinkle has her own roots in Bollywood royalty - her father is Rajesh Khanna, one of the most famous actors of all time; while her mother is the A-list actress Dimple Kapadia (who continues to act to this day)." 
+           }, 
+           {
+            "coupleId":"6",
+            "slug":"abhi_aish",
+            "coupleName":"Abhishek Bachchan and Aishwarya Rai",
+            "Date_of_Marriage":"20 April 2007",
+            "coupleImage":"abhi_aish.jpg",
+            "Bio1":"",
+            "Bio2":"",
+            "about":"Everyone knows this couple - they may not be the top Bollywood power couple within India, but they are arguably the most globally well known, having walked the Cannes red carpet together, and driven around with Oprah Winfrey when she visited India. Plus, Aishwarya has been known across the globe since she was famously crowned `the world's most beautiful woman` after winning Miss World in 1994."
+           }, 
+           {
+            "coupleId":"7",
+            "slug":"aamir_kiran",
+            "coupleName":"Aamir Khan and Kiran Rao",
+            "Date_of_Marriage":"28 December 2005",
+            "coupleImage":"aamir_kiran.jpg",
+            "Bio1":"",
+            "Bio2":"",
+            "about":"The thinking person's Bollywood power couple, Aamir and Kiran met on the set of the Oscar-nominated Lagaan in 2001, Aamir divorced his first wife Reena in 2002, and Kiran and Aamir were married in 2005. Theirs is an inter-faith marriage (he is Muslim and she is Hindu), they are both practicing vegans and both are very politically aware and outspoken. They have one son together, Azad Rao Khan who was born in 2011."
+           }, 
+           {
+            "coupleId":"8",
+            "slug":"ajay_kajol",
+            "coupleName":"Kajol and Ajay Devgn",
+            "Date_of_Marriage":"February 24, 1999",
+            "coupleImage":"kajol_ajay.jpeg",
+            "Bio1":"",
+            "Bio2":"",
+            "about":"This pair began dating in 1994, and got married in 1999 so are one of the more well-established couples on this list. Both come from Bollywood families - his father is a famous action director and her mother is an actress, while her grandmother is the very famous Shobhna. They've done many films together - some hits, some flops - and are known to be fiercely private and for never 'airing their dirty laundry'."
+           }, 
+           {
+            "coupleId":"9",
+            "slug":"ranbir_alia",
+            "coupleName":"Ranbir Kapoor and Alia Bhatt",
+            "Date_of_Marriage":"Coming Soon...",
+            "coupleImage":"runbeer_alia.jpeg",
+            "Bio1":"",
+            "Bio2":"",
+            "about":"This is a new relationship, and is the first high profile relationship that Ranbir has openly admitted to, despite the fact he dated Deepika Padukone and Katrina Kaif. Deepika even had a tattoo of his initials on her neck (which she has since lasered off).Ranbir and Alia started dating on the set of fantasy film Brahmastra, which has just wrapped up shooting, and have already expressed an interest in getting married."
+           }, 
+           {
+            "coupleId":"10",
+            "slug":"sahid_mira",
+            "coupleName":"Shahid Kapoor and Mira Kapoor",
+            "Date_of_Marriage":"7 July 2015",
+            "coupleImage":"sahid_meera.jpg",
+            "Bio1":"",
+            "Bio2":"",
+            "about":"Mira is 13 years Shahid's junior, and the pair met through their religion - they both follow Radha Soami Satsang Beas. Their marriage was arranged by their families, which is rare in Bollywood. They have two children together already, and she comes from a top business family in New Delhi, while his parents and his step-parents are all well-respected actors. Mira is not yet an actress, but rumour has it that her Bollywood debut is just around the corner."
+           }
+    ]
+}

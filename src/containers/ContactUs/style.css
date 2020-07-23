@@ -1,0 +1,45 @@
+ 
+.contactBanner img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 10px;
+}
+.Contact-Us{
+    display:grid;  
+    grid-template-columns: 65% 33%;
+    grid-gap: 10px;
+     
+}
+.button {
+    background-color: #E882FF; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-bottom:10px;
+  }
+  label{
+      color: #F5B97D;
+      font-size: 18px;
+  }
+  ::placeholder{
+      color: #E882FF;
+      padding: 5px;
+  }
+  *:focus {
+    outline: none;
+    }
+    input:focus {
+    outline: #C8005D solid 1px;
+    }
+    textarea:focus{
+        outline: #C8005D solid 1px;
+    }
+@media screen and (max-width:425px){
+.Contact-Us{
+    display:block;
+}
+}

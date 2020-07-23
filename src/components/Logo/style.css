@@ -1,0 +1,28 @@
+.Logo{
+     
+    text-align: center;
+    
+}
+.Logo_Mobile{
+    display: none;
+}
+ @media screen and (max-width:425px){
+ 
+    .Logo{
+     
+        text-align: center;
+        background-color: red; 
+        display: none;
+    }  
+    .Logo_Mobile{
+        text-align: center;
+        display: block;
+         
+        
+         
+    }
+    .Logo_Mobile img{
+        justify-content: center;
+    }
+ }   
+ 
